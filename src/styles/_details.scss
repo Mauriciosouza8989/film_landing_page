@@ -41,6 +41,11 @@
             padding: 0 2vw;
             p{
                 margin-bottom: 16px;
+                span>b{
+                    color: red;
+                    margin-bottom: 16px;
+                    display: block;
+                }
             }
             h3, h2{
                 font-size: 24px;
